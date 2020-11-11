@@ -1,4 +1,4 @@
-### Hi there 👋
+Projetos, libraries e code snippets do blog PortaSerial https://www.portaserial.com.br
 
 <!--
 **porta-serial/porta-serial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
