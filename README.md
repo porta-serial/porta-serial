@@ -1,5 +1,7 @@
 Projetos, libraries e code snippets do blog Porta Serial https://www.portaserial.com.br
 
+Donate :heart: https://ko-fi.com/portaserial
+
 <!--
 **porta-serial/porta-serial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
